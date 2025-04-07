@@ -1,6 +1,6 @@
 ![Static Badge](https://img.shields.io/badge/enjoy-llmdev-blue)
 ![GitHub release (with filter)](https://img.shields.io/github/v/release/moekidev/llmdev.jp)
-![Discord](https://img.shields.io/discord/1124682499998621737)
+
 
 ![llmdev.jp](./logo.png)
 
